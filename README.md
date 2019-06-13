@@ -1,6 +1,6 @@
 
 
 # mindlessselfindulgece.github.io
-DODODO
+other
 
-[ Урок 12 ](mindlessselfindulgece.github.io/less-css/ "LP")
+[ Dipl ](mindlessselfindulgece.github.io/less-css/ "LP")
